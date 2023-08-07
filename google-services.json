@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "414931468246",
+    "project_id": "testfcm-499e8",
+    "storage_bucket": "testfcm-499e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414931468246:android:f0ca9ebf1ae38b9ff12e77",
+        "android_client_info": {
+          "package_name": "com.ranjanm667.fcmExample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414931468246-oriuubggg19nvqjdag81tvpmr8fnshj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ranjanm667.fcmExample",
+            "certificate_hash": "bcc1e5b248c0e84f3ed86e32c7f417601909d292"
+          }
+        },
+        {
+          "client_id": "414931468246-qgepaev5pk8h4j50et4mifgtqc09gs8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ranjanm667.fcmExample",
+            "certificate_hash": "a8af2afd9c3826f6b757042a43bda9674b5e6466"
+          }
+        },
+        {
+          "client_id": "414931468246-rbgaqv893l06i47d6ovac0bh6em555ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZG3-Ey2J6Gy6CAKhXBsRy0nRp6DMpMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414931468246-rbgaqv893l06i47d6ovac0bh6em555ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
